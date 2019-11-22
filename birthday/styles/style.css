@@ -49,7 +49,7 @@ h5{
 }
 
 .banner {
-    background: url(../img/background.jpg) no-repeat center top / cover ;
+    background: url(../img/fon.jpg) no-repeat center top / cover ;
     padding-bottom: 230px;
     box-shadow: inset 0 0 10px 5px rgba(0,0,0,0.7);
 }
