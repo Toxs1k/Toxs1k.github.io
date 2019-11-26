@@ -4,14 +4,9 @@
 }
 
 body {
-	background: url(https://sun9-3.userapi.com/c855224/v855224892/17ec56/s3MPFJsf90s.jpg);
+	background: url(img/fon.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
-}
-header {
-	/*background: url('http://hobby-country.ru/wp-content/uploads/2016/11/2.jpg') no-repeat;*/
-	background-size: 100%;
-	padding-bottom: 500px;
 }
 .logo {
 	padding-top: 30px;
