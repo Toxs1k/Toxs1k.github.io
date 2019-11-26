@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(../img/fon.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.logo {
+	padding-top: 30px;
+	margin-left: 30px;
+}
+
+.logo img {
+	width: 65px;
+	float: left;
+}
