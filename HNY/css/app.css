@@ -214,7 +214,7 @@ h5{
     color: #a750d4;
 }
 
-@media screen (max-width: 320px) {
+@media screen (max-width: 720px) {
     h1 {
         line-height: 2px;
     }
