@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background: url(https://storge.pic2.me/c/1360x800/280/52483e8514827.jpg);
+}
+
+h1 {
+    color: crimson;
+}
+
+.header {
+    text-align: center;
+    line-height: 40px;
+}
+
+.h {
+    color: crimson;
+}
+
+.f {
+    color: crimson;
+    text-align: center;
+    padding-right:10px;
+    padding-top: 43%;
+    float: center;
+}
+a, a:active, a:hover {
+    text-decoration: none;
+    color: gray;
+}
